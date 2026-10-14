@@ -1,0 +1,1102 @@
+{
+ "version": 1,
+ "categories": [
+  {
+   "id": "numeros",
+   "title": "Números",
+   "icon": "number",
+   "words": [
+    {
+     "id": "numeros_001",
+     "yuhmu": "N’á",
+     "spanish": "Uno"
+    },
+    {
+     "id": "numeros_002",
+     "yuhmu": "Yóho",
+     "spanish": "Dos"
+    },
+    {
+     "id": "numeros_003",
+     "yuhmu": "Hyǘ",
+     "spanish": "Tres"
+    },
+    {
+     "id": "numeros_004",
+     "yuhmu": "Gǒho",
+     "spanish": "Cuatro"
+    },
+    {
+     "id": "numeros_005",
+     "yuhmu": "Kú̱t’a",
+     "spanish": "Cinco"
+    },
+    {
+     "id": "numeros_006",
+     "yuhmu": "’Ráto",
+     "spanish": "Seis"
+    },
+    {
+     "id": "numeros_007",
+     "yuhmu": "Yòto",
+     "spanish": "Siete"
+    },
+    {
+     "id": "numeros_008",
+     "yuhmu": "Hyä́to",
+     "spanish": "Ocho"
+    },
+    {
+     "id": "numeros_009",
+     "yuhmu": "Gǔ̱to",
+     "spanish": "Nueve"
+    },
+    {
+     "id": "numeros_010",
+     "yuhmu": "’Ré̱t’a",
+     "spanish": "Diez"
+    },
+    {
+     "id": "numeros_011",
+     "yuhmu": "’Ré̱t’a ma ’rá",
+     "spanish": "Once",
+     "note": "10 + ’rá"
+    },
+    {
+     "id": "numeros_012",
+     "yuhmu": "’Ré̱t’a ma yó",
+     "spanish": "Doce",
+     "note": "10 + yó"
+    },
+    {
+     "id": "numeros_013",
+     "yuhmu": "’Ré̱t’a ma hyǘ",
+     "spanish": "Trece",
+     "note": "10 + 3"
+    },
+    {
+     "id": "numeros_014",
+     "yuhmu": "’Ré̱t’a ma gǒho",
+     "spanish": "Catorce",
+     "note": "10 + 4"
+    },
+    {
+     "id": "numeros_015",
+     "yuhmu": "’Ré̱t’a ma kú̱t’a",
+     "spanish": "Quince",
+     "note": "10 + 5"
+    },
+    {
+     "id": "numeros_016",
+     "yuhmu": "’Ré̱t’a ma ’ráto",
+     "spanish": "Dieciséis",
+     "note": "10 + 6"
+    },
+    {
+     "id": "numeros_017",
+     "yuhmu": "’Ré̱t’a ma yòto",
+     "spanish": "Diecisiete",
+     "note": "10 + 7"
+    },
+    {
+     "id": "numeros_018",
+     "yuhmu": "’Ré̱t’a ma hyä́to",
+     "spanish": "Dieciocho",
+     "note": "10 + 8"
+    },
+    {
+     "id": "numeros_019",
+     "yuhmu": "’Ré̱t’a ma gǔ̱to",
+     "spanish": "Diecinueve",
+     "note": "10 + 9"
+    },
+    {
+     "id": "numeros_020",
+     "yuhmu": "’Róte",
+     "spanish": "Veinte",
+     "note": "Base Vigesimal"
+    },
+    {
+     "id": "numeros_021",
+     "yuhmu": "’Róte ma ’Ré̱t’a",
+     "spanish": "Treinta",
+     "note": "20 + 10"
+    },
+    {
+     "id": "numeros_022",
+     "yuhmu": "Yóho i ’róte",
+     "spanish": "Cuarenta",
+     "note": "2 x 20 (Dos veintes)"
+    },
+    {
+     "id": "numeros_023",
+     "yuhmu": "Ngú̱pho",
+     "spanish": "Cincuenta",
+     "note": "Raíz independiente (Simple)"
+    },
+    {
+     "id": "numeros_024",
+     "yuhmu": "Hyǘ i ’róte",
+     "spanish": "Sesenta",
+     "note": "3 X 20 (Tres veintes)"
+    },
+    {
+     "id": "numeros_025",
+     "yuhmu": "Hyǘ i ’róte ’ré̱t’a",
+     "spanish": "Setenta",
+     "note": "(3 X 20) + 10"
+    },
+    {
+     "id": "numeros_026",
+     "yuhmu": "Gǒho i ’róte",
+     "spanish": "Ochenta",
+     "note": "4 X 20 (Cuatro veintes)"
+    },
+    {
+     "id": "numeros_027",
+     "yuhmu": "Gǒho i ’róte ’ré̱t’a",
+     "spanish": "Noventa",
+     "note": "(4 X 20) + 10"
+    },
+    {
+     "id": "numeros_028",
+     "yuhmu": "N’à siénto",
+     "spanish": "Cien",
+     "note": "Préstamo léxico"
+    }
+   ]
+  },
+  {
+   "id": "cuerpo",
+   "title": "El cuerpo",
+   "icon": "figure.stand",
+   "words": [
+    {
+     "id": "cuerpo_001",
+     "yuhmu": "Khú̱ni",
+     "spanish": "Barba / Bigote"
+    },
+    {
+     "id": "cuerpo_002",
+     "yuhmu": "Né",
+     "spanish": "Boca"
+    },
+    {
+     "id": "cuerpo_003",
+     "yuhmu": "Yä́",
+     "spanish": "Cabeza"
+    },
+    {
+     "id": "cuerpo_004",
+     "yuhmu": "Xtä̌",
+     "spanish": "Cabello / pelo"
+    },
+    {
+     "id": "cuerpo_005",
+     "yuhmu": "Mú̱t’iyä",
+     "spanish": "Calvo"
+    },
+    {
+     "id": "cuerpo_006",
+     "yuhmu": "Hmí",
+     "spanish": "Cara / Mejilla"
+    },
+    {
+     "id": "cuerpo_007",
+     "yuhmu": "’Yǒdo",
+     "spanish": "Ceja"
+    },
+    {
+     "id": "cuerpo_008",
+     "yuhmu": "Yüni",
+     "spanish": "Codo"
+    },
+    {
+     "id": "cuerpo_009",
+     "yuhmu": "Mù̱i",
+     "spanish": "Corazón"
+    },
+    {
+     "id": "cuerpo_010",
+     "yuhmu": "’Yù̱ga",
+     "spanish": "Cuello, garganta"
+    },
+    {
+     "id": "cuerpo_011",
+     "yuhmu": "Xǒ",
+     "spanish": "Dedo"
+    },
+    {
+     "id": "cuerpo_012",
+     "yuhmu": "Yáhmo",
+     "spanish": "Dedo gordo del pie"
+    },
+    {
+     "id": "cuerpo_013",
+     "yuhmu": "Ts’ii",
+     "spanish": "Diente"
+    },
+    {
+     "id": "cuerpo_014",
+     "yuhmu": "Xǔ̱tha",
+     "spanish": "Espalda"
+    },
+    {
+     "id": "cuerpo_015",
+     "yuhmu": "Dë́",
+     "spanish": "Frente"
+    },
+    {
+     "id": "cuerpo_016",
+     "yuhmu": "Yǎ",
+     "spanish": "Hígado"
+    },
+    {
+     "id": "cuerpo_017",
+     "yuhmu": "Xèpho",
+     "spanish": "Intestinos, tripas"
+    },
+    {
+     "id": "cuerpo_018",
+     "yuhmu": "Xǐne",
+     "spanish": "Labios"
+    },
+    {
+     "id": "cuerpo_019",
+     "yuhmu": "Khàne",
+     "spanish": "Lengua"
+    },
+    {
+     "id": "cuerpo_020",
+     "yuhmu": "’Yé̱",
+     "spanish": "Mano"
+    },
+    {
+     "id": "cuerpo_021",
+     "yuhmu": "Ndéhi",
+     "spanish": "Mollera"
+    },
+    {
+     "id": "cuerpo_022",
+     "yuhmu": "Ts’áphi",
+     "spanish": "Muela"
+    },
+    {
+     "id": "cuerpo_023",
+     "yuhmu": "Xìyü",
+     "spanish": "Nariz"
+    },
+    {
+     "id": "cuerpo_024",
+     "yuhmu": "Zàts’u̱ ’yù̱ga",
+     "spanish": "Nervios del cuello"
+    },
+    {
+     "id": "cuerpo_025",
+     "yuhmu": "Xǔ̱thayä",
+     "spanish": "Nuca"
+    },
+    {
+     "id": "cuerpo_026",
+     "yuhmu": "Dó",
+     "spanish": "Ojo"
+    },
+    {
+     "id": "cuerpo_027",
+     "yuhmu": "Ts’òi",
+     "spanish": "Ombligo"
+    },
+    {
+     "id": "cuerpo_028",
+     "yuhmu": "Gǘ",
+     "spanish": "Oreja"
+    },
+    {
+     "id": "cuerpo_029",
+     "yuhmu": "Tíyä",
+     "spanish": "Pecho"
+    },
+    {
+     "id": "cuerpo_030",
+     "yuhmu": "Xǐdo",
+     "spanish": "Pestañas"
+    },
+    {
+     "id": "cuerpo_031",
+     "yuhmu": "Gwá",
+     "spanish": "Pie"
+    },
+    {
+     "id": "cuerpo_032",
+     "yuhmu": "Xinthe",
+     "spanish": "Pierna"
+    },
+    {
+     "id": "cuerpo_033",
+     "yuhmu": "Ndànts’ihmi",
+     "spanish": "Pómulo"
+    },
+    {
+     "id": "cuerpo_034",
+     "yuhmu": "’Yǒne",
+     "spanish": "Quijada"
+    },
+    {
+     "id": "cuerpo_035",
+     "yuhmu": "Yǎhmü",
+     "spanish": "Rodilla"
+    },
+    {
+     "id": "cuerpo_036",
+     "yuhmu": "Ndú̱ngü",
+     "spanish": "Sien, sentido"
+    },
+    {
+     "id": "cuerpo_037",
+     "yuhmu": "Gǚxtǒ’yo gu̱ xìyü",
+     "spanish": "Tabique nasal"
+    },
+    {
+     "id": "cuerpo_038",
+     "yuhmu": "Xíxo",
+     "spanish": "Uña"
+    },
+    {
+     "id": "cuerpo_039",
+     "yuhmu": "’Óki xìyü",
+     "spanish": "Fosa nasal"
+    },
+    {
+     "id": "cuerpo_040",
+     "yuhmu": "Xixíyü",
+     "spanish": "Vello de la nariz"
+    },
+    {
+     "id": "cuerpo_041",
+     "yuhmu": "Gàtu̱",
+     "spanish": "Arruga"
+    },
+    {
+     "id": "cuerpo_042",
+     "yuhmu": "Khí",
+     "spanish": "Sangre"
+    },
+    {
+     "id": "cuerpo_043",
+     "yuhmu": "Khìni",
+     "spanish": "Saliva"
+    }
+   ]
+  },
+  {
+   "id": "familia",
+   "title": "La familia",
+   "icon": "person.2",
+   "words": [
+    {
+     "id": "familia_001",
+     "yuhmu": "T’ú̱",
+     "spanish": "Hijo",
+     "note": "Sustantivo base"
+    },
+    {
+     "id": "familia_002",
+     "yuhmu": "T’ìxü",
+     "spanish": "Hija"
+    },
+    {
+     "id": "familia_003",
+     "yuhmu": "Ma bä̀tsiga",
+     "spanish": "Mi hijo",
+     "note": "Poseído: Ma + bä̀tsi + -ga"
+    },
+    {
+     "id": "familia_004",
+     "yuhmu": "Ma bä̀tsik’i",
+     "spanish": "Este mi hijo",
+     "note": "Demostrativo / posesivo"
+    },
+    {
+     "id": "familia_005",
+     "yuhmu": "’Mé̱ to",
+     "spanish": "Nieto / Nieta",
+     "note": "Sustantivo base"
+    },
+    {
+     "id": "familia_006",
+     "yuhmu": "’Mo’mé̱ to",
+     "spanish": "Bisnieto / Bisnieta",
+     "note": "Prefijo ’Mo-"
+    },
+    {
+     "id": "familia_007",
+     "yuhmu": "’Modo’mé̱ to",
+     "spanish": "Tataranieto / Tataranieta",
+     "note": "Prefijo ’Modo-"
+    },
+    {
+     "id": "familia_008",
+     "yuhmu": "Lexǐtimu bä̀tsi",
+     "spanish": "Hijo legítimo"
+    },
+    {
+     "id": "familia_009",
+     "yuhmu": "Zǐni / Ho̱ bo̱ ts’ǐt’o",
+     "spanish": "Adoptar / Adoptado"
+    },
+    {
+     "id": "familia_010",
+     "yuhmu": "Dada",
+     "spanish": "Papá"
+    },
+    {
+     "id": "familia_011",
+     "yuhmu": "nana",
+     "spanish": "Mamá"
+    },
+    {
+     "id": "familia_012",
+     "yuhmu": "Tsǘ",
+     "spanish": "Abuela"
+    },
+    {
+     "id": "familia_013",
+     "yuhmu": "Dä̀ta",
+     "spanish": "Abuelo"
+    },
+    {
+     "id": "familia_014",
+     "yuhmu": "’Mótsü",
+     "spanish": "Bisabuela",
+     "note": "’Mó- + Tsǘ"
+    },
+    {
+     "id": "familia_015",
+     "yuhmu": "’Modä̀ta",
+     "spanish": "Bisabuelo",
+     "note": "’Mo- + Dä̀ta"
+    },
+    {
+     "id": "familia_016",
+     "yuhmu": "Nchǐta",
+     "spanish": "Tatarabuela"
+    },
+    {
+     "id": "familia_017",
+     "yuhmu": "Nchǐto",
+     "spanish": "Tatarabuelo"
+    },
+    {
+     "id": "familia_018",
+     "yuhmu": "Bo̱pangǎnde",
+     "spanish": "Tatarabuelo / Ancestro"
+    },
+    {
+     "id": "familia_019",
+     "yuhmu": "’Wě",
+     "spanish": "Tío"
+    },
+    {
+     "id": "familia_020",
+     "yuhmu": "Zìtsi",
+     "spanish": "Tía"
+    },
+    {
+     "id": "familia_021",
+     "yuhmu": "’Me̱dìtsi",
+     "spanish": "Sobrino / Sobrina"
+    },
+    {
+     "id": "familia_022",
+     "yuhmu": "’Mé̱ to ’me̱dìtsi",
+     "spanish": "Sobrino/a nieto/a",
+     "note": "“Nieto-sobrino”"
+    },
+    {
+     "id": "familia_023",
+     "yuhmu": "Prǐmo do̱ t’e",
+     "spanish": "Primo hermano",
+     "note": "Término para hermano, dicho por hombre"
+    },
+    {
+     "id": "familia_024",
+     "yuhmu": "Prǐma zíkü",
+     "spanish": "Prima hermana",
+     "note": "Término para hermana, dicho por mujer"
+    },
+    {
+     "id": "familia_025",
+     "yuhmu": "Ìda",
+     "spanish": "Hermano",
+     "note": "Dicho por una mujer"
+    },
+    {
+     "id": "familia_026",
+     "yuhmu": "Dó̱ t’e",
+     "spanish": "Hermano",
+     "note": "Dicho por un hombre"
+    },
+    {
+     "id": "familia_027",
+     "yuhmu": "Zǐkü",
+     "spanish": "Hermana",
+     "note": "Dicha por una mujer"
+    },
+    {
+     "id": "familia_028",
+     "yuhmu": "Nkhǘ",
+     "spanish": "Hermana",
+     "note": "Dicha por un hombre"
+    },
+    {
+     "id": "familia_029",
+     "yuhmu": "Ma ’me̱ t’o’ìdagá",
+     "spanish": "Mi hermano mayor",
+     "note": "“Mi primer hermano”, dicho por mujer"
+    },
+    {
+     "id": "familia_030",
+     "yuhmu": "Ma zíküga ngé ma pǎga",
+     "spanish": "Media hermana de papá",
+     "note": "Mi hermana por parte de mi papá"
+    },
+    {
+     "id": "familia_031",
+     "yuhmu": "Ma zíküga ngé ma mǎga",
+     "spanish": "Media hermana de mamá",
+     "note": "Mi hermana por parte de mi mamá"
+    },
+    {
+     "id": "familia_032",
+     "yuhmu": "Ma ìdaga ngé ma pǎga",
+     "spanish": "Medio hermano de papá"
+    },
+    {
+     "id": "familia_033",
+     "yuhmu": "Ma ìdaga ngé ma mǎga",
+     "spanish": "Medio hermano de mamá"
+    },
+    {
+     "id": "familia_034",
+     "yuhmu": "Ma dámega",
+     "spanish": "Mi señor",
+     "note": "Posesivo Ma...ga + dáme"
+    },
+    {
+     "id": "familia_035",
+     "yuhmu": "Ma dáxüga / Ma xítsügá",
+     "spanish": "Mi señora",
+     "note": "Posesivo Ma...ga + dáxü / xítsü"
+    },
+    {
+     "id": "familia_036",
+     "yuhmu": "Pá",
+     "spanish": "Suegro",
+     "note": "Homófono con “papá”"
+    },
+    {
+     "id": "familia_037",
+     "yuhmu": "Má",
+     "spanish": "Suegra",
+     "note": "Homófono con “mamá”"
+    },
+    {
+     "id": "familia_038",
+     "yuhmu": "Kǒ",
+     "spanish": "Yerno"
+    },
+    {
+     "id": "familia_039",
+     "yuhmu": "M’mè̱hä",
+     "spanish": "Nuera"
+    },
+    {
+     "id": "familia_040",
+     "yuhmu": "’Mó",
+     "spanish": "Cuñado"
+    },
+    {
+     "id": "familia_041",
+     "yuhmu": "’Múdu",
+     "spanish": "Cuñada"
+    },
+    {
+     "id": "familia_042",
+     "yuhmu": "Ho̱ ta",
+     "spanish": "Padrastro",
+     "note": "Prefijo de reemplazo Ho̱-"
+    },
+    {
+     "id": "familia_043",
+     "yuhmu": "Ho̱me",
+     "spanish": "Madrastra"
+    },
+    {
+     "id": "familia_044",
+     "yuhmu": "Hó̱bo̱ ts’i",
+     "spanish": "Hijastro/a, entenado",
+     "note": "Referido a niños"
+    },
+    {
+     "id": "familia_045",
+     "yuhmu": "Ho̱ t’u̱",
+     "spanish": "Hijastro",
+     "note": "Joven"
+    },
+    {
+     "id": "familia_046",
+     "yuhmu": "Hó̱ t’ixü",
+     "spanish": "Hijastra",
+     "note": "Señorita"
+    },
+    {
+     "id": "familia_047",
+     "yuhmu": "Tàikhä",
+     "spanish": "Padrino"
+    },
+    {
+     "id": "familia_048",
+     "yuhmu": "Měkhä",
+     "spanish": "Madrina"
+    },
+    {
+     "id": "familia_049",
+     "yuhmu": "Ts’ìhwe̱ / Thé̱ ts’i",
+     "spanish": "Ahijado / Ahijada"
+    },
+    {
+     "id": "familia_050",
+     "yuhmu": "mbǎne nkhä̀pi",
+     "spanish": "Compadre",
+     "note": "Dicho por mujer"
+    },
+    {
+     "id": "familia_051",
+     "yuhmu": "gǔmba nkhä̀pi",
+     "spanish": "Compadre",
+     "note": "Dicho por hombre"
+    },
+    {
+     "id": "familia_052",
+     "yuhmu": "mǎne",
+     "spanish": "Comadre",
+     "note": "Dicho por hombre y mujer"
+    },
+    {
+     "id": "familia_053",
+     "yuhmu": "me̱gi dǎda",
+     "spanish": "Señor / Don"
+    },
+    {
+     "id": "familia_054",
+     "yuhmu": "me̱gi nǎna",
+     "spanish": "Señora / Doña"
+    },
+    {
+     "id": "familia_055",
+     "yuhmu": "Mphä́di",
+     "spanish": "Amigo o conocido"
+    },
+    {
+     "id": "familia_056",
+     "yuhmu": "Híngi dì n’yóhwi",
+     "spanish": "Enemigo"
+    },
+    {
+     "id": "familia_057",
+     "yuhmu": "Ràndi khä́’ï",
+     "spanish": "Extraño / Desconocido"
+    },
+    {
+     "id": "familia_058",
+     "yuhmu": "Bisǐnu",
+     "spanish": "Vecino"
+    },
+    {
+     "id": "familia_059",
+     "yuhmu": "Hyòya",
+     "spanish": "Huérfano"
+    },
+    {
+     "id": "familia_060",
+     "yuhmu": "’Mè̱go",
+     "spanish": "Hombre no nativo / Forastero"
+    },
+    {
+     "id": "familia_061",
+     "yuhmu": "Tsü’mìgü",
+     "spanish": "Mujer no nativa / Forastera"
+    },
+    {
+     "id": "familia_062",
+     "yuhmu": "Dí ’yǒga’me",
+     "spanish": "Es mi pariente"
+    },
+    {
+     "id": "familia_063",
+     "yuhmu": "Hḯ xáti ’yǒga’me / Xáti ’yǒga’me",
+     "spanish": "No es mi pariente"
+    },
+    {
+     "id": "familia_064",
+     "yuhmu": "t’ǎxki khä̀’i",
+     "spanish": "Gente blanca / persona blanca"
+    },
+    {
+     "id": "familia_065",
+     "yuhmu": "k’ǎxt’i khä̀’i",
+     "spanish": "Gente güera / persona güera"
+    },
+    {
+     "id": "familia_066",
+     "yuhmu": "‘mò k’ì’a",
+     "spanish": "Gente negra / persona negra"
+    },
+    {
+     "id": "familia_067",
+     "yuhmu": "mètsi",
+     "spanish": "Niño / Muchachito"
+    }
+   ]
+  },
+  {
+   "id": "plantas",
+   "title": "Plantas y cultivos",
+   "icon": "leaf",
+   "words": [
+    {
+     "id": "plantas_001",
+     "yuhmu": "Xó",
+     "spanish": "Acahual"
+    },
+    {
+     "id": "plantas_002",
+     "yuhmu": "Ts’óni",
+     "spanish": "Aguacate"
+    },
+    {
+     "id": "plantas_003",
+     "yuhmu": "Dǒkhu̱",
+     "spanish": "Alverjón"
+    },
+    {
+     "id": "plantas_004",
+     "yuhmu": "Zà",
+     "spanish": "Árbol, palo,leña"
+    },
+    {
+     "id": "plantas_005",
+     "yuhmu": "Mǚ",
+     "spanish": "Calabaza"
+    },
+    {
+     "id": "plantas_006",
+     "yuhmu": "Bó’kw’ä",
+     "spanish": "Camote"
+    },
+    {
+     "id": "plantas_007",
+     "yuhmu": "Hwáhi",
+     "spanish": "Campo"
+    },
+    {
+     "id": "plantas_008",
+     "yuhmu": "K’á’yo",
+     "spanish": "Caña"
+    },
+    {
+     "id": "plantas_009",
+     "yuhmu": "Dè̱se̱",
+     "spanish": "Capulín"
+    },
+    {
+     "id": "plantas_010",
+     "yuhmu": "Sawǎra",
+     "spanish": "Cebada"
+    },
+    {
+     "id": "plantas_011",
+     "yuhmu": "’Wě",
+     "spanish": "Chahuistle"
+    },
+    {
+     "id": "plantas_012",
+     "yuhmu": "Xàmü",
+     "spanish": "Chayote"
+    },
+    {
+     "id": "plantas_013",
+     "yuhmu": "Nǎxnu",
+     "spanish": "Durazno"
+    },
+    {
+     "id": "plantas_014",
+     "yuhmu": "Hogan’ài",
+     "spanish": "Epazote"
+    },
+    {
+     "id": "plantas_015",
+     "yuhmu": "’Míni",
+     "spanish": "Espina"
+    },
+    {
+     "id": "plantas_016",
+     "yuhmu": "Méphe",
+     "spanish": "Estafiate"
+    },
+    {
+     "id": "plantas_017",
+     "yuhmu": "Dòni",
+     "spanish": "Flor"
+    },
+    {
+     "id": "plantas_018",
+     "yuhmu": "Ts’ünkhu̱",
+     "spanish": "Frijol"
+    },
+    {
+     "id": "plantas_019",
+     "yuhmu": "K’òtse̱",
+     "spanish": "Fruto (rojo) de encino no comestible"
+    },
+    {
+     "id": "plantas_020",
+     "yuhmu": "Tsháxi",
+     "spanish": "Grano"
+    },
+    {
+     "id": "plantas_021",
+     "yuhmu": "’Äwxi",
+     "spanish": "Habas"
+    },
+    {
+     "id": "plantas_022",
+     "yuhmu": "K’àni",
+     "spanish": "Hierba"
+    },
+    {
+     "id": "plantas_023",
+     "yuhmu": "Khó",
+     "spanish": "Hongo"
+    },
+    {
+     "id": "plantas_024",
+     "yuhmu": "Nyǎk’ü",
+     "spanish": "Huauzontle"
+    },
+    {
+     "id": "plantas_025",
+     "yuhmu": "Bépe",
+     "spanish": "Jaltomate"
+    },
+    {
+     "id": "plantas_026",
+     "yuhmu": "Nděroxi",
+     "spanish": "Lenteja"
+    },
+    {
+     "id": "plantas_027",
+     "yuhmu": "’Wàda",
+     "spanish": "Maguey"
+    },
+    {
+     "id": "plantas_028",
+     "yuhmu": "Dèthä",
+     "spanish": "Maíz"
+    },
+    {
+     "id": "plantas_029",
+     "yuhmu": "Thá",
+     "spanish": "Mazorca"
+    },
+    {
+     "id": "plantas_030",
+     "yuhmu": "Thúhü",
+     "spanish": "Milpa"
+    },
+    {
+     "id": "plantas_031",
+     "yuhmu": "’Íxi",
+     "spanish": "Naranja, agrio"
+    },
+    {
+     "id": "plantas_032",
+     "yuhmu": "Xát’ä",
+     "spanish": "Nopal"
+    },
+    {
+     "id": "plantas_033",
+     "yuhmu": "K’ápuxü",
+     "spanish": "Papa"
+    },
+    {
+     "id": "plantas_034",
+     "yuhmu": "Bópo",
+     "spanish": "Prementina (sabia)"
+    },
+    {
+     "id": "plantas_035",
+     "yuhmu": "Gink’ani",
+     "spanish": "Quelite"
+    },
+    {
+     "id": "plantas_036",
+     "yuhmu": "K’úkha",
+     "spanish": "Quelite de trigo"
+    },
+    {
+     "id": "plantas_037",
+     "yuhmu": "Xitha",
+     "spanish": "Quintonil"
+    },
+    {
+     "id": "plantas_038",
+     "yuhmu": "’Yé̱za",
+     "spanish": "Rama"
+    },
+    {
+     "id": "plantas_039",
+     "yuhmu": "Thé",
+     "spanish": "Surco"
+    },
+    {
+     "id": "plantas_040",
+     "yuhmu": "Pè̱ni",
+     "spanish": "Tejocote"
+    },
+    {
+     "id": "plantas_041",
+     "yuhmu": "Thí",
+     "spanish": "Tlacote, tipo de grano"
+    },
+    {
+     "id": "plantas_042",
+     "yuhmu": "T’èi",
+     "spanish": "Trigo"
+    },
+    {
+     "id": "plantas_043",
+     "yuhmu": "Káhä",
+     "spanish": "Tuna"
+    },
+    {
+     "id": "plantas_044",
+     "yuhmu": "Xithä",
+     "spanish": "Zacate de milpa"
+    },
+    {
+     "id": "plantas_045",
+     "yuhmu": "Müza",
+     "spanish": "Zapote"
+    }
+   ]
+  },
+  {
+   "id": "alimentos",
+   "title": "Alimentos",
+   "icon": "fork.knife",
+   "words": [
+    {
+     "id": "alimentos_001",
+     "yuhmu": "’Asídi",
+     "spanish": "Aceite"
+    },
+    {
+     "id": "alimentos_002",
+     "yuhmu": "Déhe",
+     "spanish": "Agua"
+    },
+    {
+     "id": "alimentos_003",
+     "yuhmu": "T’áphi",
+     "spanish": "Aguamiel"
+    },
+    {
+     "id": "alimentos_004",
+     "yuhmu": "T’ěi",
+     "spanish": "Atole"
+    },
+    {
+     "id": "alimentos_005",
+     "yuhmu": "’Asüga",
+     "spanish": "Azúcar"
+    },
+    {
+     "id": "alimentos_006",
+     "yuhmu": "Ngǒ",
+     "spanish": "Carne"
+    },
+    {
+     "id": "alimentos_007",
+     "yuhmu": "Thu̱hu̱",
+     "spanish": "Comida"
+    },
+    {
+     "id": "alimentos_008",
+     "yuhmu": "Ts’ápo",
+     "spanish": "Chicle"
+    },
+    {
+     "id": "alimentos_009",
+     "yuhmu": "Pít’i",
+     "spanish": "Chicharrón"
+    },
+    {
+     "id": "alimentos_010",
+     "yuhmu": "Dò’ni",
+     "spanish": "Huevo"
+    },
+    {
+     "id": "alimentos_011",
+     "yuhmu": "Khüni",
+     "spanish": "Masa"
+    },
+    {
+     "id": "alimentos_012",
+     "yuhmu": "Tshüni",
+     "spanish": "Nixtamal"
+    },
+    {
+     "id": "alimentos_013",
+     "yuhmu": "Hmè̱mpho̱",
+     "spanish": "Pan"
+    },
+    {
+     "id": "alimentos_014",
+     "yuhmu": "’Mót’i",
+     "spanish": "Pinole"
+    },
+    {
+     "id": "alimentos_015",
+     "yuhmu": "Tshěi",
+     "spanish": "Pulque"
+    },
+    {
+     "id": "alimentos_016",
+     "yuhmu": "’Úthe",
+     "spanish": "Refresco"
+    },
+    {
+     "id": "alimentos_017",
+     "yuhmu": "’Ú",
+     "spanish": "Sal"
+    },
+    {
+     "id": "alimentos_018",
+     "yuhmu": "Thědi",
+     "spanish": "Tamal"
+    },
+    {
+     "id": "alimentos_019",
+     "yuhmu": "Gitshíphi",
+     "spanish": "Texate (agua de masa)"
+    },
+    {
+     "id": "alimentos_020",
+     "yuhmu": "Hmé",
+     "spanish": "Tortilla"
+    }
+   ]
+  }
+ ]
+}
